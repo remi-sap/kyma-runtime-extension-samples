@@ -4,7 +4,7 @@ on:
   workflow_dispatch: {}
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: java11-sapcc
+  IMAGE_NAME: sapcc
   LABEL: 1.0.0
 
 jobs:
